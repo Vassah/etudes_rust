@@ -1,0 +1,6 @@
+[package]
+name = "gradient_descent"
+version = "0.1.0"
+authors = ["Stephen Lazaro <stephen.lazaro@gmail.com>"]
+
+[dependencies]
